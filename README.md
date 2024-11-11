@@ -28,10 +28,13 @@ En la ultima foto he filtrado por Type:Task
 ![image](https://github.com/user-attachments/assets/1262f757-82e2-43de-89d2-8a45c8a14f87)
 
 6. Tareas de 1er Release en progreso en diferentes columnas ( solo se mueven las type: TASKS).
-7. Cierre de 1er Release.
-8. Comienzo de la 2da Release.
-9. Tareas de la 2da Release en progreso y filtradas por algún topic.
-10. Imagen de conversación en dos tareas.
+![image](https://github.com/user-attachments/assets/83491aff-4ad6-418d-850e-e89bf866a94d)
+
+8. Cierre de 1er Release.
+
+10. Comienzo de la 2da Release.
+11. Tareas de la 2da Release en progreso y filtradas por algún topic.
+12. Imagen de conversación en dos tareas.
 
 
 
