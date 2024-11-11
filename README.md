@@ -30,14 +30,15 @@ En la ultima foto he filtrado por Type:Task
 6. Tareas de 1er Release en progreso en diferentes columnas ( solo se mueven las type: TASKS).
 ![image](https://github.com/user-attachments/assets/83491aff-4ad6-418d-850e-e89bf866a94d)
 
-8. Cierre de 1er Release.
 
 10. Comienzo de la 2da Release.
 ![image](https://github.com/user-attachments/assets/a24c3d36-1ee9-47fb-8bb2-70a99535fad7)
 
 12. Tareas de la 2da Release en progreso y filtradas por algún topic.
 ![image](https://github.com/user-attachments/assets/0bffd863-1b53-40ac-a035-b42dd8e53876)
-
+Hemos filtrado por el Topic: Setup.
+![image](https://github.com/user-attachments/assets/4a8e1ba7-4fc0-43cc-b5d1-40cb23deaad0)
+Hemos finalizado los 2 milestones, correspondientes a los 2 primeros releases.
 14. Imagen de conversación en dos tareas.
 
 
