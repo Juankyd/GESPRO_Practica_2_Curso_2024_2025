@@ -12,6 +12,10 @@ Juan Carlos Gallego Garcia
 Como se puede ver en la parte superior izquierda se ve como debajo del nombre del repositorio pone forked from... .
 
 2. Activamos la opción de issues en el apartado de settings
+![image](https://github.com/user-attachments/assets/693eee58-0230-4ac0-8695-7a006164367b)
+
+3. Por último adjuntamos una captura de que estamos los integrantes del grupo como colaboradores en el proyecto.
+
 2. Filtro por Epics, US y Tasks en la columna de New Issues.
 Mediante el boton Label se puede filtrar por types, topics etc
 En esta foto la he filtrado por Type:Epic
