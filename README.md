@@ -39,7 +39,12 @@ En la ultima foto he filtrado por Type:Task
 Hemos filtrado por el Topic: Setup.
 ![image](https://github.com/user-attachments/assets/4a8e1ba7-4fc0-43cc-b5d1-40cb23deaad0)
 Hemos finalizado los 2 milestones, correspondientes a los 2 primeros releases.
-14. Imagen de conversación en dos tareas.
+
+13. 3er Relase
+![image](https://github.com/user-attachments/assets/18c08150-2bcb-40fe-905b-e19b926ca1b3)
+Aqui hemos iniciado el 3er Release y esta en proceso.
+
+15. Imagen de conversación en dos tareas.
 
 
 
