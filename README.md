@@ -11,6 +11,7 @@ Juan Carlos Gallego Garcia
 ![image](https://github.com/user-attachments/assets/791fba9f-4db0-43c9-9037-98daa2d67778)
 Como se puede ver en la parte superior izquierda se ve como debajo del nombre del repositorio pone forked from... .
 
+2. Activamos la opción de issues en el apartado de settings
 2. Filtro por Epics, US y Tasks en la columna de New Issues.
 Mediante el boton Label se puede filtrar por types, topics etc
 En esta foto la he filtrado por Type:Epic
@@ -43,6 +44,8 @@ Hemos finalizado los 2 milestones, correspondientes a los 2 primeros releases.
 13. 3er Relase
 ![image](https://github.com/user-attachments/assets/18c08150-2bcb-40fe-905b-e19b926ca1b3)
 Aqui hemos iniciado el 3er Release y esta en proceso.
+![image](https://github.com/user-attachments/assets/8e9468c9-c5f7-46cd-9fc5-dc60cf66e6a3)
+Aquí hemos finalizado los 3 milestones por lo que el proyecto está terminado.
 
 15. Imagen de conversación en dos tareas.
 
