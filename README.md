@@ -33,8 +33,10 @@ En la ultima foto he filtrado por Type:Task
 8. Cierre de 1er Release.
 
 10. Comienzo de la 2da Release.
-11. Tareas de la 2da Release en progreso y filtradas por algún topic.
-12. Imagen de conversación en dos tareas.
+![image](https://github.com/user-attachments/assets/a24c3d36-1ee9-47fb-8bb2-70a99535fad7)
+
+12. Tareas de la 2da Release en progreso y filtradas por algún topic.
+13. Imagen de conversación en dos tareas.
 
 
 
