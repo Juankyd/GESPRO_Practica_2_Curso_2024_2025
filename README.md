@@ -17,6 +17,7 @@ En esta foto la he filtrado por Type:Epic
 ![image](https://github.com/user-attachments/assets/d4c94b23-a4d5-4bb9-9ae8-69252a155d0a)
 
 En esta otra foto la he filtrado por Type:User story
+
 ![image](https://github.com/user-attachments/assets/3e9eb9b0-b81e-4dbf-bddc-05498a077b61)
 
 En la ultima foto he filtrado por Type:Task
