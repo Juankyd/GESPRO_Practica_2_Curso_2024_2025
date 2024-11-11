@@ -41,16 +41,18 @@ En la ultima foto he filtrado por Type:Task
 ![image](https://github.com/user-attachments/assets/a24c3d36-1ee9-47fb-8bb2-70a99535fad7)
 
 8. Tareas de la 2da Release en progreso y filtradas por algún topic.
-![image](https://github.com/user-attachments/assets/0bffd863-1b53-40ac-a035-b42dd8e53876)
 Hemos filtrado por el Topic: Setup.
-![image](https://github.com/user-attachments/assets/4a8e1ba7-4fc0-43cc-b5d1-40cb23deaad0)
+![image](https://github.com/user-attachments/assets/0bffd863-1b53-40ac-a035-b42dd8e53876)
+
 Hemos finalizado los 2 milestones, correspondientes a los 2 primeros releases.
+![image](https://github.com/user-attachments/assets/4a8e1ba7-4fc0-43cc-b5d1-40cb23deaad0)
 
 9. 3er Relase
-![image](https://github.com/user-attachments/assets/18c08150-2bcb-40fe-905b-e19b926ca1b3)
 Aqui hemos iniciado el 3er Release y esta en proceso.
-![image](https://github.com/user-attachments/assets/8e9468c9-c5f7-46cd-9fc5-dc60cf66e6a3)
+![image](https://github.com/user-attachments/assets/18c08150-2bcb-40fe-905b-e19b926ca1b3)
+
 Aquí hemos finalizado los 3 milestones por lo que el proyecto está terminado.
+![image](https://github.com/user-attachments/assets/8e9468c9-c5f7-46cd-9fc5-dc60cf66e6a3)
 
 10. Imagen de conversación en dos tareas.
 
