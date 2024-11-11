@@ -20,7 +20,8 @@ En esta otra foto la he filtrado por Type:User story
 ![image](https://github.com/user-attachments/assets/3e9eb9b0-b81e-4dbf-bddc-05498a077b61)
 
 En la ultima foto he filtrado por Type:Task
-![image](https://github.com/user-attachments/assets/baa29181-248b-4913-a082-79fb017b4ed8)
+![image](https://github.com/user-attachments/assets/c606b925-cbd8-4852-9b94-ed489b73d878)
+
 
 4. Tareas de 1er Release en el Sprint Backlog.
 5. Tareas de 1er Release en progreso en diferentes columnas ( solo se mueven las type: TASKS).
