@@ -58,6 +58,8 @@ Aquí hemos finalizado los 3 milestones por lo que el proyecto está terminado.
 
 10. Imagen de conversación en dos tareas.
 
+2 imagenes de conversaciones en dos tareas distintas.
 ![image](https://github.com/user-attachments/assets/782f33fd-1508-4f78-abc0-e20a8ee218a1)
 
+![image](https://github.com/user-attachments/assets/db7f2f66-a395-4009-b4c1-7fed2c69e122)
 
